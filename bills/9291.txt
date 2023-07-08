@@ -1,0 +1,32 @@
+ 	  	    CAFE BILLING APPLICATION
+
+ BILL NUMBER : 9291
+ CUSTOMER NAME : FT
+ PHONE NUMBER : FT
+===========================================================
+ PRODUCTS		QUANTITY		PRICE		TOTAL PRICE
+===========================================================
+ ff		9		50		360
+ Thumbs Up		9		50		450
+ Coco Cola		9		50		450
+ 7 UP		9		40		360
+ ds Soda		9		50		450
+ ps		9		40		360
+ ct		9		10		90
+ ca		9		50		450
+ pt		9		90		810
+ nd		99		90		8910
+ mc		9		10		90
+ at		9		10		90
+ DairyMilk cocktail		9		80		720
+ mojito		9		50		450
+ Kit Kat		9		40		360
+ ff		9		50		450
+ 5 soda		9		30		270
+ fruti		9		20		180
+-----------------------------------------------------------
+ ATF Tax						Rs. 121.5
+ Starter Tax						Rs. 1044.0
+ Drinks Tax						Rs. 364.5
+ TOTAL BILL						Rs. 16830.0
+-----------------------------------------------------------

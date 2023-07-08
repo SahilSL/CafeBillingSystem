@@ -1,0 +1,18 @@
+			WELCOME FOOD RETAIL
+
+ BILL NUMBER : 6608
+ CUSTOMER NAME : at
+ PHONE NUMBER : at
+===========================================================
+ PRODUCTS		QUANTITY		PRICE		TOTAL PRICE
+===========================================================
+ Thumbs Up		2		50		100
+ Coco Cola		8		50		400
+ mc		4		10		40
+ fruti		1		20		20
+-----------------------------------------------------------
+ ATF Tax						Rs. 25.0
+ Starter Tax						Rs. 4.0
+ Drinks Tax						Rs. 3.0
+ TOTAL BILL						Rs. 592.0
+-----------------------------------------------------------

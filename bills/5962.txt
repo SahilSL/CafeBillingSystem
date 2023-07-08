@@ -1,0 +1,32 @@
+ 	  	    CAFE BILLING APPLICATION
+
+ BILL NUMBER : 5962
+ CUSTOMER NAME : 8
+ PHONE NUMBER : 8
+===========================================================
+ PRODUCTS		QUANTITY		PRICE		TOTAL PRICE
+===========================================================
+ French Fries  		  8		 60		480
+ Sandwich      		  8		 50		400
+ Burger        		  8		 50		400
+ Pizza         		  8		 80		640
+ Dessert       		  8		 80		640
+ Pasta         		  8		 50		400
+ Chicken Tikka 		  8		 10		80
+ Chicken Angara		  8		 50		400
+ Paneer Tikka  		  8		 90		720
+ Noodles       		  8		 90		720
+ Manchurian    		  8		 10		80
+ Aloo Tikki    		  8		 10		80
+ Cocktail      		  8		 80		640
+ Mojito        		  8		 50		400
+ Pepsi         		  8		 40		320
+ Sprite        		  8		 50		400
+ Soda          		  8		 30		240
+ Fruti         		  8		 20		160
+-----------------------------------------------------------
+ ATF Tax						Rs. 148.0
+ Starter Tax						Rs. 208.0
+ Drinks Tax						Rs. 324.0
+ TOTAL BILL						Rs. 7880.0
+-----------------------------------------------------------

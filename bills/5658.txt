@@ -1,0 +1,32 @@
+			WELCOME FOOD RETAIL
+
+ BILL NUMBER : 5658
+ CUSTOMER NAME : finaltest
+ PHONE NUMBER : 0000000000
+===========================================================
+ PRODUCTS		QUANTITY		PRICE		TOTAL PRICE
+===========================================================
+ ff		5		50		200
+ Thumbs Up		5		50		250
+ Coco Cola		5		50		250
+ 7 UP		5		40		200
+ ds Soda		5		50		250
+ ps		5		40		200
+ ct		5		10		50
+ ca		5		50		250
+ pt		5		90		450
+ nd		5		90		450
+ mc		55		10		550
+ at		5		10		50
+ DairyMilk cocktail		5		80		400
+ mojito		5		50		250
+ Kit Kat		5		40		200
+ ff		5		50		250
+ 5 soda		5		30		150
+ fruti		5		20		100
+-----------------------------------------------------------
+ ATF Tax						Rs. 67.5
+ Starter Tax						Rs. 180.0
+ Drinks Tax						Rs. 202.5
+ TOTAL BILL						Rs. 4950.0
+-----------------------------------------------------------

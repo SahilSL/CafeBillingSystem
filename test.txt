@@ -1,0 +1,29 @@
+chocolate_tax = drinks_tax
+chips_tax = starter_tax
+juice_tax = atf_tax
+sodater_tax = starter_tax
+
+juice_price = atf_price
+chips_price = starter_price
+chocolate_price = drinks_tax
+
+silk = cocktail
+toblerone = mojito
+kitkat = pepsi
+snicker = sprite
+star = soda
+fuse = fruti
+
+lays = ct
+doritos = ca
+pringles = pt
+peppy = nd
+kurkure = mc
+wheels = at
+
+sprite = ff
+thumbsup = sw
+coco_cola = bg
+sveen_Up = pz
+Dukes = ds
+mirinda = ps

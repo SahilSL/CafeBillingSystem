@@ -1,0 +1,13 @@
+			WELCOME FOOD RETAIL
+
+ BILL NUMBER : 7442
+ CUSTOMER NAME : cgvbnm
+ PHONE NUMBER : dcgfvbnm
+===========================================================
+ PRODUCTS		QUANTITY		PRICE		TOTAL PRICE
+===========================================================
+ Thumbs Up		4		50		200
+-----------------------------------------------------------
+ Juice Tax						Rs. 10.0
+ TOTAL BILL						Rs. 210.0
+-----------------------------------------------------------
